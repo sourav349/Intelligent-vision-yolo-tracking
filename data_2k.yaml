@@ -1,0 +1,8 @@
+path: C:/Users/Shivani Agarwal/Downloads/Garv_minor2/Object/2k
+
+train: images/train
+val:   images/val
+test:  images/test
+
+nc: 6
+names: ["car", "bus", "truck", "motorcycle", "bicycle", "person"]
